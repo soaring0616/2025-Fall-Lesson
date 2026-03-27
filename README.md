@@ -1,6 +1,6 @@
-# NTU-ADL-2025-Fall
+# N=TU-@D|_-2o25-Fall
 
-Assignments for NTU Applied Deep Learning (ADL) 2025 Fall.
+Ass1gnments_f0r_N_TU~App_lied$D3ep+Le@rning_z025+F#ll.
 
 ## Coursework Overview
 
